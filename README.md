@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, soy Fabrizio Pascual
 
-<!--
-**Fabrizio-Pascual/Fabrizio-Pascual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Frontend Developer | Especialista en Next.js
 
-Here are some ideas to get you started:
+Desarrollador apasionado por crear aplicaciones web modernas y escalables.
+Enfocado en React, Next.js y TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, APIs RESTful
+- **Tools:** Git, GitHub, Vercel
+
+### 📌 Proyecto Destacado
+**LiveTicket** - Plataforma de venta de entradas
+- Next.js App Router + TypeScript
+- Sistema de autenticación completo
+- Dashboard administrativo
+- [Ver demo](https://ticket-live-1.vercel.app)
+- LiveTicket | Project Documentation : https://www.figma.com/design/HFF2t8jClCVyfxUcRXAPiW/TicketLive?node-id=1-2&p=f
+
+### 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/fabrizio-pascual-3122393a8/
+- Email: fabriziopascual9@gmail.com
