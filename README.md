@@ -21,3 +21,4 @@ Enfocado en React, Next.js y TypeScript.
 ### 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/fabrizio-pascual-3122393a8/
 - Email: fabriziopascual9@gmail.com
+[CV Currículum de Marketing y Ventas en Estilo Simple Gris y Negro.pdf](https://github.com/user-attachments/files/24871018/CV.Curriculum.de.Marketing.y.Ventas.en.Estilo.Simple.Gris.y.Negro.pdf)
