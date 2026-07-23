@@ -24,8 +24,8 @@ Enfocado en React, Next.js y TypeScript.
 - Tienda online con catálogo, checkout y seguimiento de pedidos
 - Panel de administración: productos, stock, ventas
 - Sistema de cuenta corriente ("fiado") por cliente
-- [Ver demo](https://despensa-luci-puce.vercel.app/)
-- 
+- [Web](https://despensa-luci-puce.vercel.app/)
+  
 ### 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/fabrizio-pascual-3122393a8/
 - Email: fabriziopascual9@gmail.com
